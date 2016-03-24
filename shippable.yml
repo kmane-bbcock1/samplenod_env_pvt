@@ -22,6 +22,6 @@ env:
   
 build:
   ci:
-    - node --version
+    - node --version  
     - echo "$$TEST"
     - echo "$te%st"
