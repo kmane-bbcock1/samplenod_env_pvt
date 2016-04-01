@@ -7,9 +7,9 @@ node_js:
   
   
 env:
-  - &TOO=FOO
+  - !*TOO=FOO
 
 build:
   ci:
     - node --version
-    - echo $"&TOO"
+    - echo "!*TOO"
