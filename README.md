@@ -1,2 +1,2 @@
-# sampleNod
+# sampleNodeJS
 test sample for NodeJS
