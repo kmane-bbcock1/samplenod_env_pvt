@@ -16,4 +16,4 @@ env:
 build:
   ci:
     - node --version
-    - sleep 3m
+    - echo "$TO$O"
